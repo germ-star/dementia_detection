@@ -1,6 +1,7 @@
 The main contribution of our project  is the extraction of disfluency markers as explicit tokens. This will alllow the model can attend to these discriminative features.
 This way of augmennting the data will be called Pauses-based dusfluency markers (PAT-DM).
 GCN + PAT-DM model for dementia detection using DementiaBank full dataset.
+A total of 7 markers we added (FILLER, FRAGMENT, REPEAT, INCOMPLETE, TRAILING, RESTART, PAUSES)
 
 ## How we built the architecture
 
